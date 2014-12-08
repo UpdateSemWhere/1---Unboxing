@@ -2,3 +2,16 @@
 ============
 
 Primeiro episódio no formato "Unboxing"
+
+============
+
+No formato "Unboxing", vamos pegar uma ferramenta seguir, o getting started dela
+no site do desenvolvedor e fazer um pequeno review (Documentação, Exemplos etc..)
+
+Sugestões : 
+"Ember"
+"Angular"
+"Backbone"
+"Bluebird"
+"Sequelize"
+etc....
