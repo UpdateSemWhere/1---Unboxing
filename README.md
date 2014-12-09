@@ -7,4 +7,4 @@ no site do desenvolvedor e fazer um pequeno review (Documentação, Exemplos etc
 
 Ferramenta : "Loopback"
 
-Local : Parque Ibirapuera(lago de bg), Ponte estaiada(bg), Congonhas, Academia, Rocker, Metrô
+Local : Parque Ibirapuera(lago de bg), Ponte estaiada(bg), Congonhas, Academia, Rocker, Metrô, Parque Trianon
