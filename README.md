@@ -11,15 +11,3 @@ no site do desenvolvedor e fazer um pequeno review (Documentação, Exemplos etc
 Ferramenta : "Loopback"
 
 Local : 
-
-
-
-
-
-Sugestões : 
-"Ember"
-"Angular"
-"Backbone"
-"Bluebird"
-"Sequelize"
-etc....
